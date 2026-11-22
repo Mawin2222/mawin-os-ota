@@ -1,5 +1,5 @@
 {
-  "version": "3.4",
-  "notes": "Font Size S/M/L & Menu",
-  "url": "https://raw.githubusercontent.com/Mawin2222/mawin-os-ota/main/mawin_os_v3.4.bin"
+  "version": "3.5",
+  "notes": "Fix OLED Size & Web Sync",
+  "url": "https://raw.githubusercontent.com/Mawin2222/mawin-os-ota/main/mawin_os_v3.5.bin"
 }

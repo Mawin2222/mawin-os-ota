@@ -1,5 +1,5 @@
 {
-  "version": "4.1",
-  "notes": "v4.1 C3: Main Page 5 Cyber Chronos Timer HUD (Radial Radar + Stopwatch + Lap + +1m Boost)",
-  "url": "https://raw.githubusercontent.com/Mawin2222/mawin-os-ota/main/mawin_os_c3_v4.1.bin"
+  "version": "4.2",
+  "notes": "v4.2 C3: +1m Timer Step, 3x Quick Launch, Timer Done Pop-up & Global Top-Right Timer Bar",
+  "url": "https://raw.githubusercontent.com/Mawin2222/mawin-os-ota/main/mawin_os_c3_v4.2.bin"
 }

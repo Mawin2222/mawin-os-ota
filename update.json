@@ -1,5 +1,5 @@
 {
-  "version": "4.0",
-  "notes": "v4.0 C3: Cooling+Temp, Emergency Gas Graph, Dynamic Pill, Timer, 4 Clock Faces, HA MQTT",
-  "url": "https://raw.githubusercontent.com/Mawin2222/mawin-os-ota/main/mawin_os_c3_v4.0.bin"
+  "version": "4.1",
+  "notes": "v4.1 C3: Main Page 5 Cyber Chronos Timer HUD (Radial Radar + Stopwatch + Lap + +1m Boost)",
+  "url": "https://raw.githubusercontent.com/Mawin2222/mawin-os-ota/main/mawin_os_c3_v4.1.bin"
 }

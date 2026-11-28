@@ -1,5 +1,5 @@
 {
-  "version": "4.3",
-  "notes": "v4.3 S2 Mini: LOLIN ESP32-S2 Mini Native Edition + Anti-Lag Turbo Core + Timer Reset 00:00",
-  "url": "https://raw.githubusercontent.com/Mawin2222/mawin-os-ota/main/mawin_os_s2_v4.3.bin"
+  "version": "4.4",
+  "notes": "v4.4 S2 Mini: BME680 Split SCL (Pin 39) + Full Thai UTF-8 Buffers + Anti-Ghost MQ-6 ADC",
+  "url": "https://raw.githubusercontent.com/Mawin2222/mawin-os-ota/main/mawin_os_s2_v4.4.bin"
 }

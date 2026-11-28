@@ -1,5 +1,5 @@
 {
-  "version": "4.4.1",
-  "notes": "v4.4.1 S2 Mini: Fix OLED OTA Freeze (14KB TLS Worker Task + Non-Blocking Check)",
-  "url": "https://raw.githubusercontent.com/Mawin2222/mawin-os-ota/main/mawin_os_s2_v4.4.1.bin"
+  "version": "4.4.2",
+  "notes": "v4.4.2 S2 Mini: Fix ESP32 Core 3.x HTTPS Timeout Bug in OTA Check & Download",
+  "url": "https://raw.githubusercontent.com/Mawin2222/mawin-os-ota/main/mawin_os_s2_v4.4.2.bin"
 }
